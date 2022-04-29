@@ -1,2 +1,2 @@
 # vue-todo
-This is a basic demonstrational app build on Vue JS
+This is a basic demonstrational app built using Vue JS
